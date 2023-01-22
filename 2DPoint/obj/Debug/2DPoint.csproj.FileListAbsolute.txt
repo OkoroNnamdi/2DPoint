@@ -1,0 +1,7 @@
+C:\SCHOOLMANAGEMENT\2DPoint\2DPoint\obj\Debug\2DPoint.csprojAssemblyReference.cache
+C:\SCHOOLMANAGEMENT\2DPoint\2DPoint\obj\Debug\2DPoint.csproj.CoreCompileInputs.cache
+C:\SCHOOLMANAGEMENT\2DPoint\2DPoint\bin\Debug\2DPoint.exe.config
+C:\SCHOOLMANAGEMENT\2DPoint\2DPoint\bin\Debug\2DPoint.exe
+C:\SCHOOLMANAGEMENT\2DPoint\2DPoint\bin\Debug\2DPoint.pdb
+C:\SCHOOLMANAGEMENT\2DPoint\2DPoint\obj\Debug\2DPoint.exe
+C:\SCHOOLMANAGEMENT\2DPoint\2DPoint\obj\Debug\2DPoint.pdb
